@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/samarth_sweets/static/css/main.161e1496.chunk.css",
+    "main.js": "/samarth_sweets/static/js/main.cf92b5f4.chunk.js",
+    "main.js.map": "/samarth_sweets/static/js/main.cf92b5f4.chunk.js.map",
+    "runtime-main.js": "/samarth_sweets/static/js/runtime-main.7b929ff2.js",
+    "runtime-main.js.map": "/samarth_sweets/static/js/runtime-main.7b929ff2.js.map",
+    "static/js/2.c53530ec.chunk.js": "/samarth_sweets/static/js/2.c53530ec.chunk.js",
+    "static/js/2.c53530ec.chunk.js.map": "/samarth_sweets/static/js/2.c53530ec.chunk.js.map",
+    "index.html": "/samarth_sweets/index.html",
+    "precache-manifest.085fa5bd81ec371f876320cb82977446.js": "/samarth_sweets/precache-manifest.085fa5bd81ec371f876320cb82977446.js",
+    "service-worker.js": "/samarth_sweets/service-worker.js",
+    "static/css/main.161e1496.chunk.css.map": "/samarth_sweets/static/css/main.161e1496.chunk.css.map",
+    "static/js/2.c53530ec.chunk.js.LICENSE.txt": "/samarth_sweets/static/js/2.c53530ec.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/samarth_sweets/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b929ff2.js",
+    "static/js/2.c53530ec.chunk.js",
+    "static/css/main.161e1496.chunk.css",
+    "static/js/main.cf92b5f4.chunk.js"
+  ]
+}
